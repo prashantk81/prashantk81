@@ -13,20 +13,14 @@ My main focus is on web development, Machine Learning, and improving coding skil
 
 Here are some projects...
 
-1. [TorrentMesh: P2P Group File Transfer System](https://github.com/prashantk81/Peer-to-Peer-Group-Based-File-Sharing-System):[ Socket Programming, Multi-threading, and SHA-256 ]
+1. [TorrentMesh: P2P Group File Transfer System](https://github.com/prashantk81/Peer-to-Peer-Group-Based-File-Sharing-System): [ Socket Programming, Multi-threading, and SHA-256 ]
    - A P2P Group-based file-sharing system contains a bunch of functionalities like uploading and downloading.
-2. [Automated and Distributed App Deployment Platform]:
-   - Fully functional and automated platform supports any IoT-based application and is handled by many modules like application manager, deployment manager, node manager, sensor manager, and platform initializer.
-   - Each service is running as an independent docker container and communicates via Kafka.
+2. [Automated and Distributed App Deployment Platform](https://github.com/hkashyap0809/IAS-IOT-AVISHKAR-23/tree/prashant): [ Docker, Kafka ]
+   - Fully functional and automated platform supports any IoT-based application.
 3. [Simple RA: A Relational Database](https://github.com/prashantk81/SimpleRA/tree/main):
-   - Developed a mini relational database, focusing on operations like SORT, ORDER BY, JOIN, GROUP BY, and aggregate functions.
-   - Also extended the functionalities to handle very large size matrix and matrix-based operations like LOAD-MATRIX and TRANSPOSE.
-   - Improved database performance by eﬃciently managing the number of pages/buﬀers used, reducing disk access, and external merge sort.
-4. [BERT: Keyphrase Extraction Model]:
-   - Developed a deep learning model that combines BERT embeddings and sentence transformers for accurate keyphrase extraction on Twitter data.
-   - Achieved enhanced performance through the use of similarity metrics and BERT embeddings, ensuring retention of semantic and syntactic connectivity.
-   - Takes an English language text as input and will return the keywords from the input text.
-  
+   - Developed a mini relational database, focusing on operations like SORT, ORDER BY, JOIN, GROUP BY.
+   - Extended the functionalities to handle very large-size matrix and matrix-based operations like LOAD-MATRIX and TRANSPOSE.
+     
 Feel free to explore my repositories for more!
 
 ## 📫 Contact
