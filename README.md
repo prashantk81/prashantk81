@@ -13,8 +13,8 @@ My main focus is on web development, Machine Learning, and improving coding skil
 
 Here are some projects...
 
-1. [TorrentMesh: P2P Group File Transfer System](https://github.com/prashantk81/Peer-to-Peer-Group-Based-File-Sharing-System):
-   - A P2P Group-based file-sharing system contains a bunch of functionalities like uploading and downloading which includes Socket Programming, Multi-threading, and SHA-256.
+1. [TorrentMesh: P2P Group File Transfer System](https://github.com/prashantk81/Peer-to-Peer-Group-Based-File-Sharing-System):[ Socket Programming, Multi-threading, and SHA-256 ]
+   - A P2P Group-based file-sharing system contains a bunch of functionalities like uploading and downloading.
 2. [Automated and Distributed App Deployment Platform]:
    - Fully functional and automated platform supports any IoT-based application and is handled by many modules like application manager, deployment manager, node manager, sensor manager, and platform initializer.
    - Each service is running as an independent docker container and communicates via Kafka.
