@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Prashant Kumar
-Currently, I'm pursuing a Master's in Computer Science and Engineering from IIIT, Hyderabad and I am passionate about learning new technology to solve real-world problems.
+Currently, pursuing Master's in Computer Science and Engineering from IIIT, Hyderabad. I am passionate about learning new technology to solve real-world problems.
 My main focus is on web development, Machine Learning, and improving coding skills.
 
 ## 🔧 Skills
@@ -7,7 +7,8 @@ My main focus is on web development, Machine Learning, and improving coding skil
 - HTML | CSS | Java Script
 - MySQL | Bash Scripting
 - Git | Linux | Latex
-- Data Structure | Operating System | Database | Computer Network
+- Data Structure | Operating System
+- Database | Computer Network
 
 ## 🌟 Projects
 
